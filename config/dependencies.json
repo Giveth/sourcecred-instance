@@ -1,7 +1,7 @@
 [
     {
-        "autoActivateOnIdentityCreation": true,
         "name": "SourceCred",
-        "startWeight": 0.05
+        "periods": [],
+        "autoActivateOnIdentityCreation": true,
     }
 ]
