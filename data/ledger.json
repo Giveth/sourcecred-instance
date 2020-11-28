@@ -274,3 +274,5 @@
 {"action":{"identityId":"cPfQfYLA0JkRdN45Qg8f3w","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1606260363202,"uuid":"FXxh1WTQZqPKAqhWP2pXcg","version":"1"}
 {"action":{"identityId":"XK3LZc5LSoEWfrPwZja13A","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1606260388104,"uuid":"cl1rhkHBRM6xDIKyNOFrEA","version":"1"}
 {"action":{"identityId":"ivEkJtr18nXkz7pUKD59Hg","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1606260441167,"uuid":"Pr1VrsOP9u2pMm9Q4piW4w","version":"1"}
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000lBwHYdb7W5JZamDV1ehnrQ\u0000","aliases":[],"id":"lBwHYdb7W5JZamDV1ehnrQ","name":"SnappySnap","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1606522424628,"uuid":"xOqnWTWTJJnZX0Ax9coigw","version":"1"}
+{"action":{"alias":{"address":"N\u0000sourcecred\u0000discord\u0000MEMBER\u0000user\u0000313650405324357633\u0000","description":"discord/SnappySnap#8204"},"identityId":"lBwHYdb7W5JZamDV1ehnrQ","type":"ADD_ALIAS"},"ledgerTimestamp":1606522424629,"uuid":"MgWrE2mSkxNg7pvmZMgptQ","version":"1"}
