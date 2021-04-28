@@ -704,3 +704,4 @@
 {"action":{"alias":{"address":"N\u0000sourcecred\u0000github\u0000USERLIKE\u0000USER\u0000bowensanders\u0000","description":"github/[@bowensanders](https://github.com/bowensanders)"},"identityId":"F5pvN3rW0H8rL3kawWaEtw","type":"ADD_ALIAS"},"ledgerTimestamp":1618925613200,"uuid":"LSJuYAXsgJbvJiahL7PoGA","version":"1"}
 {"action":{"identityId":"Bv3LNHByh3qDEhW9G9UJUA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1619627800087,"uuid":"yiErDPgdgmeyakf2RWXl6w","version":"1"}
 {"action":{"base":"Bv3LNHByh3qDEhW9G9UJUA","target":"8eWNr47OgNkLl1Oaxz1AXw","type":"MERGE_IDENTITIES"},"ledgerTimestamp":1619627817871,"uuid":"sZbx6Ua3wRjUETrDzw7z3w","version":"1"}
+{"action":{"identityId":"kjPpAdegjGNiWt0p60S61g","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1619627884985,"uuid":"mK96hE4Td7SgjpjmSOQSjw","version":"1"}
