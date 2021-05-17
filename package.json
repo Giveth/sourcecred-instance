@@ -1,9 +1,9 @@
 {
-  "name": "template-instance",
+  "name": "giveth-sourcecred-instance",
   "version": "0.1.0",
-  "description": "A template repo for creating a SourceCred instance",
-  "repository": "git@github.com:sourcecred/template-instance.git",
-  "author": "SourceCred Team <contact@sourcecred.io>",
+  "description": "The Giveth Community adopted this template repo for creating a SourceCred instance",
+  "repository": "git@github.com:giveth/sourcecred-instance.git",
+  "author": "Deployed by <admin@giveth.io>",
   "license": "MIT",
   "private": true,
   "dependencies": {
