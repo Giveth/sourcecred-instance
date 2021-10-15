@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "sourcecred": "0.8.5",
+    "sourcecred": "0.10.0",
     "tar": "^6.1.2",
     "trim": "^0.0.3",
     "underscore": "^1.12.1"
