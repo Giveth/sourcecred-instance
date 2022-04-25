@@ -10,7 +10,7 @@
     "sourcecred": "0.8.5",
     "tar": "^6.1.2",
     "trim": "^0.0.3",
-    "underscore": "^1.12.1"
+    "underscore": "^1.13.3"
   },
   "scripts": {
     "clean": "rimraf cache site",
