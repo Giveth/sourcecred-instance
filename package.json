@@ -8,7 +8,7 @@
   "private": true,
   "dependencies": {
     "sourcecred": "0.8.5",
-    "tar": "^6.1.2",
+    "tar": "^6.1.13",
     "trim": "^0.0.3",
     "underscore": "^1.12.1"
   },
